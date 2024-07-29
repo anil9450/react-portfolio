@@ -2,6 +2,8 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
+import project6 from "../assets/projects/project-6.jpg";
 
 export const HERO_CONTENT = `With 2 years of hands-on experience in frontend development, I
                 have honed my skills in creating dynamic, user-friendly web
@@ -69,14 +71,14 @@ export const PROJECTS = [
   },
   {
     title: "Delta-Executor",
-    image: project4,
+    image: project5,
     description:
       "The Delta Executor game project sounds intriguing! Could you provide more details about the project? Specifically, information such as the gameplay mechanics, target audience, platform (web, mobile, desktop), and any unique features or technologies used would be helpful. This will allow me to give you a more comprehensive overview or assistance.",
     technologies: ["Javascript", "Reactjs", "Nextjs", "tailwindCSS", "JSX"],
   },
   {
     title: "One Liner Script Multiple Script",
-    image: project4,
+    image: project6,
     description:
       "One Liner Script Multiple Script project seems to focus on creating a platform where users can access and utilize various scripts or other tasks,referring to specific features, functionalities, or a particular use case, please share more details! This will help in providing a more accurate and detailed description.",
     technologies: ["Javascript", "Reactjs", "Nextjs", "tailwindCSS", "JSX"],
