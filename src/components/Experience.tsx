@@ -42,7 +42,7 @@ const Experience = () => {
               {experience.technologies.map((tech, index) => (
                 <span
                   key={index}
-                  className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-white"
+                  className="mr-1 mt-4 rounded bg-neutral-900 px-1 py-1 text-xs font-medium text-white"
                 >
                   {tech}
                 </span>
