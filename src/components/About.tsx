@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import profilePicture from "../assets/ANIL.jpg";
+import profilePicture2 from "../assets/Anil_nm.jpeg";
 import Image from "next/image";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
@@ -22,7 +23,7 @@ const About = () => {
           <div className="flex items-center justify-center">
             <Image
               className="rounded-3xl w-96 h-96"
-              src={profilePicture}
+              src={profilePicture2}
               alt="about"
             />
           </div>

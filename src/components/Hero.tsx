@@ -4,6 +4,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { HERO_CONTENT } from "../constants";
 import profilePicture from "../assets/ANIL.jpg";
+import profilePicture1 from "../assets/anilmn.png";
 
 const container = (delay: any) => ({
   hidden: { x: -100, opacity: 0 },
@@ -52,7 +53,7 @@ const Hero = () => {
                 transition={{ duration: 0.5 }}
               >
                 <Image
-                  src={profilePicture}
+                  src={profilePicture1}
                   alt="Anil Kumar Singh Kushwaha"
                   className="rounded-3xl w-96 h-96"
                 />
