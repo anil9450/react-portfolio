@@ -8,7 +8,7 @@ import Link from "next/link";
 export default function Page() {
   return (
     <>
-      <nav className="mb-20 flex items-center justify-between py-6">
+      <nav className="mb-10 flex items-center justify-between py-6">
         <div className="flex flex-shrink-0 items-center">
           <h1 className="text-2xl">Portfolio</h1>
         </div>
