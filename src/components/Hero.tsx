@@ -55,7 +55,7 @@ const Hero = () => {
                 <Image
                   src={profilePicture1}
                   alt="Anil Kumar Singh Kushwaha"
-                  className="rounded-3xl w-96 h-96 mt-16"
+                  className="rounded-3xl w-96 h-96 mt-12"
                 />
               </motion.div>
             </div>
