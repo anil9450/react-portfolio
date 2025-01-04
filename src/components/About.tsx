@@ -35,7 +35,7 @@ const About = () => {
           className="w-full lg:w-1/2"
         >
           <div className="flex justify-center lg:justify-start">
-            <p className="my-2 max-w-xl py-6 text-justify tracking-wider">{ABOUT_TEXT}</p>
+            <p className="my-2 max-w-xl py-6 text-justify tracking-wider mt-8">{ABOUT_TEXT}</p>
           </div>
         </motion.div>
       </div>
