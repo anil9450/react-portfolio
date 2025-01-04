@@ -23,7 +23,9 @@ const Experience = () => {
               transition={{ duration: 1 }}
               className="w-full lg:w-1/4"
             >
-              <p className="mb-2 text-sm text-neutral-400">{experience.year}</p>
+              <p className="mb-2 text-sm text-neutral-700 font-bold">
+                {experience.year}
+              </p>
             </motion.div>
 
             <motion.div
@@ -38,7 +40,10 @@ const Experience = () => {
                   {experience.company}
                 </span>
               </h6>
-              <p className="mb-4 text-neutral-400">{experience.description}</p>
+              <p className="mb-4 text-neutral-700 text-justify">
+                {experience.description}
+              </p>
+              {/* 
               {experience.technologies.map((tech, index) => (
                 <span
                   key={index}
@@ -47,6 +52,7 @@ const Experience = () => {
                   {tech}
                 </span>
               ))}
+              */}
             </motion.div>
           </div>
         ))}
