@@ -24,7 +24,7 @@ const Hero = () => {
                 animate="visible"
                 className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-6xl"
               >
-                Anil Kumar Singh Kushwaha
+                Anil Kushwaha
               </motion.h1>
               <motion.span
                 variants={container(0.5)}
@@ -33,7 +33,7 @@ const Hero = () => {
                 className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl 
             text-transparent"
               >
-                Frontend Developer
+                Web Developer
               </motion.span>
               <motion.p
                 variants={container(1)}
