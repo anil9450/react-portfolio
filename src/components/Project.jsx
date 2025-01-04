@@ -29,7 +29,7 @@ const Project = () => {
                 width={150}
                 height={150}
                 alt={Project.title}
-                className="mb-6 rounded mt-8 w-24 h-24"
+                className="mb-6 rounded mt-4 w-24 h-24"
               />
             </motion.div>
             <motion.div
