@@ -110,7 +110,7 @@ export const PROJECTS = [
     title: "Library Web App",
     image: project9,
     description:
-      "The **Library Web App** features a clean, intuitive UI designed for seamless navigation and user interaction. The homepage showcases a searchable catalog with filters for genre, author, and availability. A responsive design ensures optimal usability across devices, with visually appealing layouts built using React.js and Tailwind CSS. Key interfaces include a user dashboard for borrowing history, a librarian panel for book and user management, and a real-time availability tracker. The app employs modern design principles, focusing on accessibility and ease of use, providing a professional and engaging experience for both users and administrators.",
+      "The Library Web App features a clean, intuitive UI designed for seamless navigation and user interaction. The homepage showcases a searchable catalog with filters for genre, author, and availability. A responsive design ensures optimal usability across devices, with visually appealing layouts built using React.js and Tailwind CSS. Key interfaces include a user dashboard for borrowing history, a librarian panel for book and user management, and a real-time availability tracker. The app employs modern design principles, focusing on accessibility and ease of use, providing a professional and engaging experience for both users and administrators.",
     technologies: ["Javascript", "Reactjs", "Nextjs", "tailwindCSS", "JSX"],
   },
 ];
