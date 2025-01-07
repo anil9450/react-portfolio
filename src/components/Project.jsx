@@ -39,7 +39,7 @@ const Project = () => {
               className="w-full max-w-xl lg:w-3/4"
             >
               <h6 className="mb-2 font-semibold">{Project.title}</h6>
-              <p className="mb-4 text-neutral-700">{Project.description}</p>
+              <p className="mb-4 text-neutral-700 text-justify">{Project.description}</p>
               {/*
               {Project.technologies.map((tech, index) => (
                 <span
