@@ -6,6 +6,7 @@ import project5 from "../assets/projects/delta_executor.jpeg";
 import project6 from "../assets/projects/single_line_script.jpeg";
 import project7 from "../assets/projects/add_to_cart.jpeg";
 import project8 from "../assets/projects/dashboard.jpeg";
+import project9 from "../assets/projects/library.png";
 
 export const HERO_CONTENT = `Highly skilled Next.js Developer with 2.9 years of professional experience in building dynamic, user-friendly, and high-performance web applications. Proficient in JavaScript, React, Tailwind CSS, and Next.js, with expertise in developing responsive UIs, optimizing web performance, and implementing scalable frontend solutions. Experienced in collaborating with cross-functional teams, integrating APIs, and ensuring seamless user experiences. Demonstrated success in delivering innovative projects, including AI-powered tools, real-time tracking systems, and interactive websites. Committed to writing clean, maintainable code and staying updated with the latest web development trends.`;
 
@@ -102,6 +103,14 @@ export const PROJECTS = [
     image: project8,
     description:
       "Developed a responsive static dashboard showcasing data visualization and user interface elements using Next.js and React. Designed reusable components, including tables, charts, and navigation menus, ensuring modularity and scalability. Utilized Tailwind CSS for a clean, responsive, and visually appealing UI optimized for various devices. Focused on performance, accessibility, and cross-browser compatibility while adhering to modern web development best practices. This project demonstrates proficiency in building elegant and functional interfaces with an emphasis on efficiency and maintainability",
+    technologies: ["Javascript", "Reactjs", "Nextjs", "tailwindCSS", "JSX"],
+  },
+
+   {
+    title: "Library Web App",
+    image: project9,
+    description:
+      "The **Library Web App** features a clean, intuitive UI designed for seamless navigation and user interaction. The homepage showcases a searchable catalog with filters for genre, author, and availability. A responsive design ensures optimal usability across devices, with visually appealing layouts built using React.js and Tailwind CSS. Key interfaces include a user dashboard for borrowing history, a librarian panel for book and user management, and a real-time availability tracker. The app employs modern design principles, focusing on accessibility and ease of use, providing a professional and engaging experience for both users and administrators.",
     technologies: ["Javascript", "Reactjs", "Nextjs", "tailwindCSS", "JSX"],
   },
 ];
