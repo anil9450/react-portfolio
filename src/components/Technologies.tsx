@@ -12,6 +12,8 @@ import { BiLogoJavascript } from "react-icons/bi";
 import { BiLogoBootstrap } from "react-icons/bi";
 import { BiLogoHtml5 } from "react-icons/bi";
 import { BiSolidFileCss } from "react-icons/bi";
+import { SiExpress } from "react-icons/si";
+import { BiLogoNodejs } from "react-icons/bi";
 
 const iconVariants: any = (duration: any) => ({
   initial: { y: -10 },
@@ -114,6 +116,24 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <BiLogoHtml5 className="text-7xl text-blue-400" />
+        </motion.div>
+        
+        <motion.div
+          variants={iconVariants(9)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiExpress className="text-7xl text-blue-400"/>
+        </motion.div>
+
+        <motion.div
+          variants={iconVariants(9)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <BiLogoNodejs className="text-7xl text-blue-400"/>
         </motion.div>
       </motion.div>
     </div>
