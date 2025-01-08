@@ -124,7 +124,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiExpress className="text-7xl text-blue-400"/>
+          <SiExpress className="text-7xl text-black-400"/>
         </motion.div>
 
         <motion.div
@@ -133,7 +133,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <BiLogoNodejs className="text-7xl text-blue-400"/>
+          <BiLogoNodejs className="text-7xl text-green-400"/>
         </motion.div>
       </motion.div>
     </div>
