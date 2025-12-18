@@ -28,7 +28,7 @@ export const EXPERIENCES = [
   {
     year: "2024 May - 2025 Jan",
     role: "Web Developer",
-    company: "Working as a Freelancer Developer",
+    company: "Worked as a Freelancer Developer",
     description: `As a Next.js developer with 3+ years of Web Developer experience, I specialize in building robust, scalable, and high-performance web applications. My responsibilities include designing and developing user-friendly interfaces, optimizing web applications for speed and SEO, and implementing server-side rendering (SSR) and static site generation (SSG) features. I collaborate closely with clients to understand their requirements, deliver customized solutions, and ensure timely project completion. With expertise in React, Tailwind CSS, and API integration, I create responsive and engaging web applications that align with business goals. I am proficient in debugging, code optimization, and maintaining clean, reusable code for long-term scalability.`,
     technologies: [
       "Javascript",
