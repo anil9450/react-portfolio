@@ -159,7 +159,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  Address: "Delhi-NCR",
-  Phone No: "+91 94508 13596",
-  Email: "kanil9128@gmail.com",
+  address: "Delhi-NCR",
+  phone: "+91 94508 13596",
+  email: "kanil9128@gmail.com",
 };

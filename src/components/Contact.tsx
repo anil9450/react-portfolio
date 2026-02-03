@@ -29,7 +29,7 @@ const Contact = () => {
           transition={{ duration: 2 }}
           className="my-4"
         >
-          {CONTACT.phoneNo}
+          {CONTACT.phone}
         </motion.div>
         <motion.div
           whileInView={{ opacity: 1, y: 0 }}
