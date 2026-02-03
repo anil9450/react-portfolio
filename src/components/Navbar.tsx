@@ -14,7 +14,7 @@ export default function Page() {
         </div>
 
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-          <Link href="https://www.linkedin.com/in/anil-kushwaha-53b967104/">
+          <Link href="#">
             <FaLinkedin />
           </Link>
           <Link href="https://github.com/anil9450">
