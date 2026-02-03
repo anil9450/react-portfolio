@@ -8,9 +8,9 @@ import project7 from "../assets/projects/add_to_cart.jpeg";
 import project8 from "../assets/projects/dashboard.jpeg";
 import project9 from "../assets/projects/library.png";
 
-export const HERO_CONTENT = `Skilled with Next.js & MERN Developer with 3+ years of professional experience in building dynamic, user-friendly, and high-performance web applications.Proficient in JavaScript, React, Tailwind CSS, Next.js & MERN with expertise in developing responsive UIs, optimizing web performance, and implementing scalable frontend solutions. Experienced in collaborating with cross-functional teams, integrating APIs, and ensuring seamless user experiences. Demonstrated success in delivering innovative projects, including AI-powered tools, real-time tracking systems, and interactive websites. Committed to writing clean, maintainable code and staying updated with the latest web development trends.`;
+export const HERO_CONTENT = `Skilled with Next.js & MERN Developer with 3.9 years of professional experience in building dynamic, user-friendly, and high-performance web applications.Proficient in JavaScript, React, Tailwind CSS, Next.js & MERN with expertise in developing responsive UIs, optimizing web performance, and implementing scalable frontend solutions. Experienced in collaborating with cross-functional teams, integrating APIs, and ensuring seamless user experiences. Demonstrated success in delivering innovative projects, including AI-powered tools, real-time tracking systems, and interactive websites. Committed to writing clean, maintainable code and staying updated with the latest web development trends.`;
 
-export const ABOUT_TEXT = `I am a passionate web developer with 3+ years of experience specializing in building dynamic and user-friendly web applications using Next.js & MERN. My expertise lies in crafting efficient, scalable, and responsive interfaces that enhance user experience. Proficient in modern web technologies like React, Tailwind CSS, and JavaScript, I thrive in collaborative environments and consistently deliver high-quality solutions that align with project goals.  
+export const ABOUT_TEXT = `I am a passionate web developer with 3.9 years of experience specializing in building dynamic and user-friendly web applications using Next.js & MERN. My expertise lies in crafting efficient, scalable, and responsive interfaces that enhance user experience. Proficient in modern web technologies like React, Tailwind CSS, and JavaScript, I thrive in collaborative environments and consistently deliver high-quality solutions that align with project goals.  
 I have successfully contributed to diverse projects, from interactive platforms to AI-driven tools, showcasing my ability to adapt and innovate. I am committed to staying updated with the latest trends and technologies to ensure optimal performance and functionality in every project I undertake.  
 Ready to take on challenging roles that allow me to grow as a developer and bring value to the team!`;
 
@@ -45,7 +45,7 @@ export const EXPERIENCES = [
   },
 
   {
-    year: "2025 Feb - Present",
+    year: "2025 Feb - 2025 July",
     role: "Web Developer",
     company: "DVMSKE",
     description: `As a Next.js developer with 3+ years of Web Developer experience, I specialize in building robust, scalable, and high-performance web applications. My responsibilities include designing and developing user-friendly interfaces, optimizing web applications for speed and SEO, and implementing server-side rendering (SSR) and static site generation (SSG) features. I collaborate closely with clients to understand their requirements, deliver customized solutions, and ensure timely project completion. With expertise in React, Tailwind CSS, and API integration, I create responsive and engaging web applications that align with business goals. I am proficient in debugging, code optimization, and maintaining clean, reusable code for long-term scalability.`,
@@ -61,6 +61,25 @@ export const EXPERIENCES = [
       "API",
       "JSON",
       "Wordpress",
+    ],
+  },
+
+  {
+    year: "2025 July - Present",
+    role: "Web Developer",
+    company: "Working as a Freelancer Developer",
+    description: `As a Next.js developer with 3+ years of Web Developer experience, I specialize in building robust, scalable, and high-performance web applications. My responsibilities include designing and developing user-friendly interfaces, optimizing web applications for speed and SEO, and implementing server-side rendering (SSR) and static site generation (SSG) features. I collaborate closely with clients to understand their requirements, deliver customized solutions, and ensure timely project completion. With expertise in React, Tailwind CSS, and API integration, I create responsive and engaging web applications that align with business goals. I am proficient in debugging, code optimization, and maintaining clean, reusable code for long-term scalability.`,
+    technologies: [
+      "Javascript",
+      "Typescript",
+      "React",
+      "Nextjs",
+      "TaiwindCSS",
+      "JSX",
+      "HTML",
+      "CSS",
+      "API",
+      "JSON",
     ],
   },
 ];
