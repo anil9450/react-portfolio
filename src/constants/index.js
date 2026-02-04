@@ -29,7 +29,17 @@ export const EXPERIENCES = [
     year: "2024 May - 2025 Jan",
     role: "Web Developer",
     company: "Worked as a Freelancer Developer",
-    description: `As a Next.js developer with 3+ years of Web Developer experience, I specialize in building robust, scalable, and high-performance web applications. My responsibilities include designing and developing user-friendly interfaces, optimizing web applications for speed and SEO, and implementing server-side rendering (SSR) and static site generation (SSG) features. I collaborate closely with clients to understand their requirements, deliver customized solutions, and ensure timely project completion. With expertise in React, Tailwind CSS, and API integration, I create responsive and engaging web applications that align with business goals. I am proficient in debugging, code optimization, and maintaining clean, reusable code for long-term scalability.`,
+    description: `Developed responsive and SEO-optimized web applications using Next.js, React, and Tailwind CSS.
+
+Built reusable UI components and improved page performance through code splitting and lazy loading.
+
+Integrated REST APIs and third-party services to enhance application functionality.
+
+Collaborated with clients to gather requirements and translate business needs into technical solutions.
+
+Implemented SSR and SSG strategies to improve search engine visibility and loading speed.
+
+Performed debugging, testing, and performance tuning for production-ready deployments.`,
     technologies: [
       "Javascript",
       "Typescript",
@@ -48,7 +58,17 @@ export const EXPERIENCES = [
     year: "2025 Feb - 2025 July",
     role: "Web Developer",
     company: "DVMSKE",
-    description: `As a Next.js developer with 3+ years of Web Developer experience, I specialize in building robust, scalable, and high-performance web applications. My responsibilities include designing and developing user-friendly interfaces, optimizing web applications for speed and SEO, and implementing server-side rendering (SSR) and static site generation (SSG) features. I collaborate closely with clients to understand their requirements, deliver customized solutions, and ensure timely project completion. With expertise in React, Tailwind CSS, and API integration, I create responsive and engaging web applications that align with business goals. I am proficient in debugging, code optimization, and maintaining clean, reusable code for long-term scalability.`,
+    description: `Designed and maintained scalable web platforms with a focus on user experience and accessibility.
+
+Led front-end architecture decisions and optimized application structure for long-term scalability.
+
+Worked closely with design and backend teams to ensure seamless feature integration.
+
+Enhanced website speed, Core Web Vitals, and overall SEO performance.
+
+Managed deployment workflows and version control using Git.
+
+Continuously refactored codebases to maintain clean, modular, and maintainable code standards.`,
     technologies: [
       "Javascript",
       "Typescript",
@@ -68,7 +88,17 @@ export const EXPERIENCES = [
     year: "2025 July - Present",
     role: "Web Developer",
     company: "Working as a Freelancer Developer",
-    description: `As a Next.js developer with 3.9 years of Web Developer experience, I specialize in building robust, scalable, and high-performance web applications. My responsibilities include designing and developing user-friendly interfaces, optimizing web applications for speed and SEO, and implementing server-side rendering (SSR) and static site generation (SSG) features. I collaborate closely with clients to understand their requirements, deliver customized solutions, and ensure timely project completion. With expertise in React, Tailwind CSS, and API integration, I create responsive and engaging web applications that align with business goals. I am proficient in debugging, code optimization, and maintaining clean, reusable code for long-term scalability.`,
+    description: `Deliver end-to-end web solutions for multiple clients across industries.
+
+Architect high-performance applications using Next.js, MERN stack, and modern UI frameworks.
+
+Provide consultation on technology stacks, hosting, and performance optimization.
+
+Develop custom dashboards, e-commerce platforms, and business websites.
+
+Ensure mobile responsiveness, cross-browser compatibility, and security best practices.
+
+Maintain long-term client relationships through reliable delivery and post-launch support.`,
     technologies: [
       "Javascript",
       "Typescript",
